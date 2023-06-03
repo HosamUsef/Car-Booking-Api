@@ -55,9 +55,6 @@ public class CarBookingApiApplication {
 
 
 		};
-		// ? zby manga
-		// ! zby manga
-		// * zby manga
 
 
 	}
