@@ -10,7 +10,7 @@ Extension and improvement of our [CLI Car Booking Application](https://github.co
 * **PostgreSQL Database** running on
 * **Docker*
 
-## Endpoints
+# Endpoints
 
 | Endpoints                                 | Description                                            |
 |-------------------------------------------|--------------------------------------------------------|
